@@ -3,11 +3,14 @@ body {
 }
 
 h1 {
-  text-align: center;
   color: orange;
 }
 
 p {
   color: red;
   margin-left: 40px;
+}
+
+#center {
+  text-align: center;
 }
