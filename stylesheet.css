@@ -1,5 +1,6 @@
 body {
   background-color: gray;
+  background-image: image(background.png);
 }
 
 h1 {
