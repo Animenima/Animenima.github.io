@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <<html xmlns="https://www.w3.org/TR/xhtml2/" xml:lang="en" lang="en">>
+<title>Animenima</title>
 <head>
 	<style type='text/css'>
 		body {
